@@ -2,9 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.scss";
 import App from "./App";
-import { TableGeneric } from "./screen/TableGeneric";
-import { FormGeneric } from "./screen/FormGeneric";
-import { Home } from "./screen/Home";
+import { TableGeneric, FormGeneric, Home } from "./screen";
 import * as serviceWorker from "./serviceWorker";
 import { Router, Route, browserHistory, IndexRoute } from "react-router";
 
