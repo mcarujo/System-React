@@ -4,13 +4,14 @@ import "./index.scss";
 import App from "./App";
 import { TableGeneric } from "./screen/TableGeneric";
 import { FormGeneric } from "./screen/FormGeneric";
+import { Home } from "./screen/Home";
 import * as serviceWorker from "./serviceWorker";
 import { Router, Route, browserHistory, IndexRoute } from "react-router";
 
 ReactDOM.render(
   <Router history={browserHistory}>
     <Route path="/" component={App}>
-      <IndexRoute component={App} />
+      <IndexRoute component={Home} />
       <Route path="/table" component={TableGeneric} />
       <Route path="/form" component={FormGeneric} />
     </Route>

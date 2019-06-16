@@ -10,7 +10,7 @@ class App extends Component {
       SystemTitle: "Carujo's System",
       SystemSubTitle:
         "One single page application to use for starting your project",
-      menuTitle: "System",
+      menuTitle: "Home",
       menuItems: [
         { name: "Table", link: "/table" },
         { name: "Form", link: "/form" }
