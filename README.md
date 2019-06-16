@@ -8,7 +8,11 @@ I used too the [create-react-app](https://facebook.github.io/create-react-app/do
 - At first, you must install the dependencies,
   for that you can use the command `npm install` inside the folder `my-app`, to be honest, I recommend you change the name of this folder.
 
-- At dev environment, you just need to run the command `npm start run`, and go to your browser and see the port 3000, put the URL classic: [http://localhost:3000/](http://localhost:3000/).
+- At dev environment, you just need to run the command `npm run start`, and go to your browser and see the port 3000, put the URL classic: [http://localhost:3000/](http://localhost:3000/).
+
+- At deployment, you just need to run the command `npm run deploy`, and see your files on the folder `src/build`.
+
+If you have some doubt you can find more explanation on the [create-react-app](https://facebook.github.io/create-react-app/docs/getting-started) page.
 
 ## Documentation
 
