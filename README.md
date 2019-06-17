@@ -12,7 +12,7 @@ I used too the [create-react-app](https://facebook.github.io/create-react-app/do
 
 - At deployment, you just need to run the command `npm run deploy`, and see your files on the folder `src/build`.
 
-If you have some doubt you can find more explanation on the [create-react-app](https://facebook.github.io/create-react-app/docs/getting-started) page.
+If you have any doubt you can find more explanation on the [create-react-app](https://facebook.github.io/create-react-app/docs/getting-started) page.
 
 ## Documentation
 
