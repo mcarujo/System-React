@@ -3,6 +3,10 @@
 React is a JavaScript library for building user interfaces. PureCSS is a CSS library to help developers build their pages in an easier way.
 I used too the [create-react-app](https://facebook.github.io/create-react-app/docs/getting-started) to start this repository.
 
+
+![Gif](https://github.com/mcarujo/System-React/blob/master/react.gif)
+
+
 ## Installation
 
 - At first, you must install the dependencies,
