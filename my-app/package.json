@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/react-router": "^5.0.2",
     "jquery": "^3.4.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "pubsub-js": "^1.7.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
